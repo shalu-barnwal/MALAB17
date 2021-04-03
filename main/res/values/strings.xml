@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="null_">" "</string>
+    <string name="null_no">"nothing"</string>
+    <string name="load_data">Load Info</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="enter_student_name">Enter Student Name</string>
+</resources>
